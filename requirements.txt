@@ -1,3 +1,4 @@
+colossalai
 accelerate
 diffusers
 ftfy
