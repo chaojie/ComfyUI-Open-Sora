@@ -20,7 +20,7 @@ pip install -v .
 
 ## Models
 
-download https://huggingface.co/hpcai-tech/Open-Sora/blob/main/OpenSora-v1-HQ-16x256x256.pth & put it to ComfyUI/models/checkpoints
+download [OpenSora-v1-HQ-16x512x512.pth](https://huggingface.co/hpcai-tech/Open-Sora/blob/main/OpenSora-v1-HQ-16x512x512.pth) & put it to ComfyUI/models/checkpoints
 
 | Resolution  | Data   | #iterations | Batch Size | GPU days (H800) | URL                                                                                           |
 | ---------- | ------ | ----------- | ---------- | --------------- | --------------------------------------------------------------------------------------------- |
