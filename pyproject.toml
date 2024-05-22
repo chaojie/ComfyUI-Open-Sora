@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-open-sora"
+description = "ComfyUI Open Sora\nNOTE:only supports Linux now"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["colossalai", "accelerate", "diffusers", "ftfy", "gdown", "mmengine", "pre-commit", "pyav", "tensorboard", "timm", "tqdm", "transformers", "wandb"]
+
+[project.urls]
+Repository = "https://github.com/chaojie/ComfyUI-Open-Sora"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Open-Sora"
+Icon = ""
