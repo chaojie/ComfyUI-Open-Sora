@@ -42,6 +42,6 @@ huggingface-cli download --resume-download stabilityai/sd-vae-ft-ema
 
 <img src="wf.png" raw=true>
 
-https://github.com/chaojie/ComfyUI-Oepn-Sora/blob/main/wf.json
+https://github.com/chaojie/ComfyUI-Open-Sora/blob/main/wf.json
 
 [Open-Sora](https://github.com/hpcaitech/Open-Sora)
